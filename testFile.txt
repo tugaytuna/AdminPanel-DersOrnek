@@ -1,1 +1,3 @@
 Merhaba, bu benim ilk commit'im!
+
+Güncelleme yaptım.
